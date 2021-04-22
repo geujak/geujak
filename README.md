@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @geujak
 - 👀 I’m interested in using GitHub for school-purposes like a collaborative work on a text
-- 🌱 I’m currently learning how to use GitHub und health topics
-- 💞️ I’m looking to collaborate on composing information about vitamin D3 
+- 🌱 I’m currently learning how to use GitHub and NextCloud
+- 💞️ I’m looking to collaborate on merging GitHub with NextCloud for school-topics 
 - 📫 How to reach me geu.jak@t-online.de
 
 <!---
